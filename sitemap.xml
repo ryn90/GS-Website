@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.google.com/schemas/sitemap/0.84">
+<url>
+    <loc>http://www.godfreysammut.com</loc>
+    <lastmod>2011-01-16</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.8</priority>
+</url>  
+<url>
+    <loc>http://www.godfreysammut.com/index.html</loc>
+    <lastmod>2011-01-16</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.8</priority>
+</url>  
+<url>
+    <loc>http://www.godfreysammut.com/about.html</loc>
+    <lastmod>2011-01-16</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>http://www.godfreysammut.com/services.html</loc>
+    <lastmod>2011-01-16</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.8</priority>
+</url>  
+<url>
+    <loc>http://www.godfreysammut.com/contact.html</loc>
+    <lastmod>2011-01-16</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.8</priority>
+</url>  
+</urlset>      

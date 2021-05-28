@@ -1,0 +1,195 @@
+@charset "utf-8";
+
+body 
+{
+	background-color: #edefec;
+	color: #666; 
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	text-align: justify;
+}
+
+div#wrapper 
+{
+    background-color: #edefec;
+    position: relative;
+    width: 960px;
+    height: 800px;
+    margin: auto; /* this will center the element */
+}
+
+div#banner
+{
+	position: absolute;
+	width: 960px;
+	top: 100px;
+}
+
+
+div#main
+{
+	position: absolute;
+	top: 335px;
+	padding: 0px;
+	font-size: 12px;
+}
+
+
+div#footer
+{
+	position: absolute;
+	width: 960px;
+	height: 15px;
+	top: 730px;
+}
+
+div#footerAbout
+{
+	position: absolute;
+	width: 960px;
+	height: 15px;
+	top: 610px;
+}
+
+div#footerHome
+{
+	position: absolute;
+	width: 960px;
+	height: 15px;
+	top: 530px;
+}
+
+div#footerContact
+{
+	position: absolute;
+	width: 960px;
+	height: 15px;
+	top: 920px;
+}
+
+
+#footer a
+{
+	text-decoration: none;
+	color: #666;
+}
+
+#footer a:hover
+{
+	text-decoration: none;
+	color:#249cd3;
+}
+
+#footer a:visited
+{
+	text-decoration: none;
+	color:#666;
+}
+
+#footerAbout a
+{
+	text-decoration: none;
+	color: #666;
+}
+
+#footerAbout a:hover
+{
+	text-decoration: none;
+	color:#249cd3;
+}
+
+#footerAbout a:visited
+{
+	text-decoration: none;
+	color:#666;
+}
+
+#footerContact a
+{
+	text-decoration: none;
+	color: #666;
+}
+
+#footerContact a:hover
+{
+	text-decoration: none;
+	color:#249cd3;
+}
+
+#footerContact a:visited
+{
+	text-decoration: none;
+	color:#666;
+}
+
+#footerHome a
+{
+	text-decoration: none;
+	color: #666;
+}
+
+#footerHome a:hover
+{
+	text-decoration: none;
+	color:#249cd3;
+}
+
+#footerHome a:visited
+{
+	text-decoration: none;
+	color:#666;
+}
+
+h1 
+{
+	margin:0;
+	padding:28px 0 5px 0px;
+	color:#3b3b3b;
+	font:normal 30px/1.2em "Liberation sans", Arial, Helvetica, sans-serif;
+	letter-spacing:-2px;
+}
+
+h2 
+{ 
+	font:normal 24px/1.5em "Liberation sans", Arial, 	Helvetica, sans-serif;
+	padding:0px 0;
+	margin:0px 0;
+	color:#3b3b3b;
+}
+
+h3
+{ 
+	font:normal 14px/1.5em "Liberation sans", Arial, Helvetica, sans-serif;
+	padding:8px 0;
+	margin:8px 0;
+	color:#3b3b3b;
+}
+
+p 
+{ 
+	margin:8px 0; 
+	text-align: justify;
+	padding:0 0 8px 0; 
+	font:normal 12px/1.8em "Liberation sans", Arial, Helvetica, sans-serif;
+}
+
+li
+{
+	text-align: justify;
+	font:normal 12px/1.8em "Liberation sans", Arial, Helvetica, sans-serif;
+}
+
+a
+{
+	text-decoration: none;
+}
+	
+.alignleft 
+{
+	float: left;
+}
+
+.alignright 
+{
+	float: right;
+}
